@@ -1,1 +1,1 @@
-console.log('Hello Card page')
+console.log('Hello Card page 55555')
